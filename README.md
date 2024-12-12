@@ -1,4 +1,4 @@
-## Official Homepage of Laoshi Village
+## Official Homepage of Guanghuatimes
 
 edit from alan pc
 
