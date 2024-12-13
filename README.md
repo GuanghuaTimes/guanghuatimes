@@ -1,4 +1,4 @@
-## Official Homepage of laoshi-village
+## Official Homepage of GuanghuaTimes
 
 edit from alan pc
 
