@@ -2,7 +2,7 @@ export const homepageConfig = {
   carouselItems: [
     {
       imgSrc: "/hero1_new.jpeg",
-      title: "Hello from 海头老市村",
+      title: "Hello from 测试文字",
       titleCn: "Hello from 海头老市村",
       description:
         "For justice, love neighbor, wise living, be the best of yourself",
