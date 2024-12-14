@@ -3,11 +3,11 @@ import type { FooterItem, MainNavItem } from "@/types";
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Laoshi Village",
-  nameCn: "海头老市村",
+  name: "Laoshi ceshiVillage",
+  nameCn: "海头ceshi老市村",
   heroSlogan: "Hello from 海头老市村",
   heroSubSlogan: "For justice, love thy neighbor, wise living, be the best you",
-  heroSubSloganCn: "为正义, 爱邻居, 明智生活, 做最好的自己",
+  heroSubSloganCn: "为正义, 爱邻居, 明ceshi智生活, 做最好的自己",
   description: "The best place to visit",
   descriptionCn: "终身学习的生态社区",
   url: "https://alan-webpage.vercel.app",
